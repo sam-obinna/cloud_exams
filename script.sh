@@ -1,6 +1,4 @@
 #!/bin/sh
-# YouTube: https://youtu.be/FIEDwzMRdBw
-
 # Things to so after install Ubuntu 20.04
 sudo -i
 apt update -y
